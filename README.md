@@ -21,7 +21,7 @@
 </p>
 
 ####  
-Vibranium-Web for Vibranium Bot||coming soon
+Vibranium-Web for default use|coming soon
 
 
 
